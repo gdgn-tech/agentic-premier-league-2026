@@ -65,7 +65,6 @@ Every team MUST include:
 - README.md
 - Architecture diagram
 - Setup instructions
-- Demo link
 - Team details
 
 ---
