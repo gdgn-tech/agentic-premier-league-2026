@@ -65,7 +65,7 @@ agentic-premier-league-2026/
 │
 ├── README.md                    # This file
 ├── CONTRIBUTING.md              # Contribution guidelines
-├── CODE_OF_CONDUCT.md          # Community standards
+├── CODEOFCONDUCT.md          # Community standards
 ├── TRACKS.md                   # Competition tracks
 ├── SUBMISSION_GUIDELINES.md    # How to submit
 ├── PROJECT_TEMPLATE.md         # Template for projects
@@ -222,13 +222,13 @@ Explore the `resources/` directory for:
 
 We welcome contributions! Please read:
 - [CONTRIBUTING.md](./CONTRIBUTING.md) - Contribution guidelines
-- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) - Community standards
+- [CODE_OF_CONDUCT.md](./CODEOFCONDUCT.md) - Community standards
 
 ---
 
 ## 📜 Code of Conduct
 
-This project adheres to a Covenant Code of Conduct. By participating, you are expected to uphold this code. Please read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for details.
+This project adheres to a Covenant Code of Conduct. By participating, you are expected to uphold this code. Please read [CODEOFCONDUCT.md](./CODEOFCONDUCT.md) for details.
 
 ---
 
