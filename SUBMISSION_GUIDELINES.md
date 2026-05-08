@@ -16,13 +16,13 @@ Every team must submit:
 # Submission Folder Format
 
 ```txt
-rcb/team-name-project/
+rcb/team-project/
 ```
 
 OR
 
 ```txt
-mi/team-name-project/
+mi/team-project/
 ```
 
 ---
