@@ -36,16 +36,16 @@ Welcome to the **Agentic Premier League 2026**! This is a cutting-edge AI builda
 ### **RCB (Royal Challengers Bangalore)**
 ```
 projects/RCB/
-├── team-name-1/
-├── team-name-2/
+├── team-1/
+├── team-2/
 └── ...
 ```
 
 ### **MI (Mumbai Indians)**
 ```
 projects/MI/
-├── team-name-1/
-├── team-name-2/
+├── team-1/
+├── team-2/
 └── ...
 ```
 
@@ -72,13 +72,13 @@ agentic-premier-league-2026/
 │
 ├── projects/                   # All participant projects
 │   ├── RCB/                   # Royal Challengers Bangalore team
-│   │   ├── project-name-1/
-│   │   ├── project-name-2/
+│   │   ├── team-1/
+│   │   ├── team-2/
 │   │   └── ...
 │   │
 │   └── MI/                    # Mumbai Indians team
-│       ├── project-name-1/
-│       ├── project-name-2/
+│       ├── team-1/
+│       ├── team-2/
 │       └── ...
 │
 ├── resources/                  # Learning & reference materials
