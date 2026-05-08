@@ -7,9 +7,7 @@ Every team must submit:
 - Source code
 - README
 - Architecture diagram
-- Demo video
 - Deployment link
-- Presentation/PPT
 
 ---
 
