@@ -7,12 +7,12 @@ Welcome to Agentic Premier League 2026 🚀
 Each team should create their own branch:
 
 ```txt
-team-name-project
+team-project
 ```
 
 Example:
 ```txt
-phoenix-career-copilot
+team-Diva-copilot
 ```
 
 ---
