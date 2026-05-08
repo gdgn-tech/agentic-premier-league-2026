@@ -51,6 +51,13 @@ projects/MI/
 
 ---
 
+# Repository Structure
+
+```txt
+RCB/ → Projects built by Team RCB
+MI/ → Projects built by Team MI
+```
+
 ## 📁 Repository Structure
 
 ```
@@ -104,6 +111,87 @@ agentic-premier-league-2026/
 3. **Review Tracks**: See TRACKS.md for difficulty levels
 4. **Use the Template**: Copy PROJECT_TEMPLATE.md to start
 5. **Submit Your Project**: Follow the submission checklist
+
+Each team folder contains:
+- Source code
+- README
+- Architecture
+- Demo links
+- Screenshots
+- Deployment links
+---
+
+# Rules
+
+- Teams must attempt all 5 mandatory features
+- Partial submissions are allowed
+- Any tech stack/framework/tools are allowed
+- Focus on scalability, usability, automation, and innovation
+
+---
+# Problem Statements
+
+## 1. AI Career Copilot for Students
+
+Build an AI-powered Career Copilot that helps students with:
+- Resume analysis
+- Internship matching
+- Mock interviews
+- Skill recommendations
+- Career growth tracking
+
+## 2. Autonomous Hiring & Talent Intelligence Platform
+
+Build an AI hiring platform that automates:
+- Candidate screening
+- Talent ranking
+- Interview workflows
+- AI communication
+- Recruitment analytics
+
+---
+
+# Judging Criteria
+
+- Scalability & Startup Potential
+- Innovation & Problem Solving
+- Agentic Architecture
+- Technical Execution
+- User Experience
+- Automation Quality
+- Presentation & Demo
+
+---
+
+# Submission Requirements
+
+Each team must submit:
+- GitHub Project
+- README
+- PPT
+- Demo Video
+- Architecture Diagram
+- Deployment Link
+
+---
+# Team Structure
+
+Each project must follow this structure:
+
+```txt
+team-name-project-name/
+│
+├── README.md
+├── architecture/
+├── frontend/
+├── backend/
+├── ai-agents/
+├── docs/
+├── screenshots/
+└── demo/
+```
+
+---
 
 For detailed instructions, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 
